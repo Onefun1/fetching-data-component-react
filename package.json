@@ -1,8 +1,8 @@
 {
-  "name": "collapsible-component-react",
+  "name": "fetching-data-component-react",
   "version": "1.0.0",
-  "description": "Webpack - React project practice.",
-  "homepage": "https://onefun1.github.io/collapsible-component-react/",
+  "description": "Webpack / React project practice.",
+  "homepage": "https://onefun1.github.io/fetching-data-component-react/",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
